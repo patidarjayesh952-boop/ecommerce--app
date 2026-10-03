@@ -22,3 +22,6 @@ Wishlist
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted
+
+Customer Notifications
+- Customers can receive order status notifications
