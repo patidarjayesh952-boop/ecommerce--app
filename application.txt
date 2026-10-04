@@ -53,3 +53,7 @@ Delivery Management
 Wishlist Enhancement
 - Customers can remove products from their wishlist.
 - Customers can move wishlist products to the shopping cart quickly
+
+Payment Timeout Handling
+- Payment requests are monitored for timeout conditions.
+- Timed-out payments are marked for retry
