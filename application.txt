@@ -53,7 +53,3 @@ Delivery Management
 Wishlist Enhancement
 - Customers can remove products from their wishlist.
 - Customers can move wishlist products to the shopping cart quickly
-
-Customer Loyalty
-- Customers can earn loyalty points.
-- Loyalty points can be used for future purchases
