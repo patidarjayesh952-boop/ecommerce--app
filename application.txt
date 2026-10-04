@@ -57,3 +57,7 @@ Wishlist Enhancement
 Payment Timeout Handling
 - Payment requests are monitored for timeout conditions.
 - Timed-out payments are marked for retry
+
+Payment Timeout Hotfix
+- Timed-out payments are clearly identified. 
+- Customers receive a retry option when payment processing times out
