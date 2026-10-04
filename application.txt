@@ -49,3 +49,7 @@ Order History
 Delivery Management
 - Customers can view delivery information.
 - Delivery status is updated as orders progress.
+
+Wishlist Enhancement
+- Customers can remove products from their wishlist.
+- Customers can move wishlist products to the shopping cart quickly
